@@ -1,0 +1,20 @@
+{
+  "name": "agridesc-api-iot",
+  "version": "0.0.1",
+  "description": "serviço para recebimento e armazenamento de dados iot",
+  "main": "index.js",
+  "repository": "https://github.com/adestec/agridesc-api-iot",
+  "author": "Adestec Hacker Space",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@types/node": "^15.12.4",
+    "express": "^4.17.1",
+    "reflect-metadata": "^0.1.13",
+    "typeorm": "^0.2.34"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^1.1.6",
+    "typescript": "^4.3.4"
+  }
+}
